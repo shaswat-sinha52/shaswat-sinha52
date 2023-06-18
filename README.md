@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswat-sinha52&label=Profile%20views&color=0e75b6&style=flat" alt="shaswat-sinha52" /> </p>
 
-- 🌱 I’m currently learning **MS sql server ,c#**
+- 🌱 I’m currently learning **android development ,kotlin,database**
 
-- 💬 Ask me about **c++,c,java,kotlin,mysql,dbms,sql etc**
+- 💬 Ask me about **c++,c,java,kotlin,mysql,dbms,sql,android,competitive programming etc**
 
 - 📫 How to reach me **officialshaswat2021@gmail.com**
 
