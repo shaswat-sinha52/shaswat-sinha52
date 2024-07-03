@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswat-sinha52&label=Profile%20views&color=0e75b6&style=flat" alt="shaswat-sinha52" /> </p>
 
-- 🌱 I’m currently learning **Web Development , Html Css Javascript**
+- 🌱 I’m currently learning **Web Development , Html ,Css ,Javascript ,React,Tailwind,Postman,Express.js**
 
 - 💬 Ask me about **c++,c,java,kotlin,mysql,dbms,sql,android,Web development,competitive programming etc**
 
